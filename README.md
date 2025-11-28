@@ -33,4 +33,9 @@ This dashboard provides a comprehensive analysis of Blinkit’s sales trends, ou
 
 ---
 
-## 📁 Project Files
+
+## 🛠️ Tools Used
+- Power BI  
+- DAX Calculations  
+- Data Modeling  
+- CSV Data Extraction  
