@@ -14,7 +14,7 @@ This dashboard provides a comprehensive analysis of Blinkit’s sales trends, ou
 ---
 
 ## 📷 Dashboard Preview
-![Blinkit Dashboard](Blinkit.png)
+![Blinkit Dashboard](PIC.png)
 
 ---
 
